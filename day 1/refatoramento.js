@@ -16,14 +16,14 @@ if(numeroUm == stringUm){
 //Comparação entre 10 e string de '10'
 if (numeroDez == stringDez) {
     console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes')
-  } else {
+} else {
     console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
-  }
+}
 
 //Comparação entre 30 e string de '30'
 if (numeroTrinta == stringTrinta) {
     console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes')
-  } else {
+} else {
     console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
-  }
+}
 
